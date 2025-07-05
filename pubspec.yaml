@@ -11,5 +11,5 @@ dev_dependencies:
 environment:
   sdk: ^3.4.4
 name: api_http
-publish_to: none
+repository: https://github.com/normidar/api_http
 version: 0.0.1
