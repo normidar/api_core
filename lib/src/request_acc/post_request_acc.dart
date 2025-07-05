@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:api_core/api_core.dart';
+import 'package:api_http/api_http.dart';
 import 'package:meta/meta.dart';
 
 @immutable

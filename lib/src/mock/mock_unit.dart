@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:api_core/api_core.dart';
+import 'package:api_http/api_http.dart';
 import 'package:http/http.dart' as http;
 
 class DeleteMockUnit {
