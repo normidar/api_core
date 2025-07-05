@@ -18,4 +18,4 @@ export 'package:api_http/src/request_acc/request_body/multipart_request_body/bod
 export 'package:api_http/src/request_acc/request_body/request_body.dart';
 export 'package:api_http/src/response_acc/response_acc.dart';
 export 'package:api_http/src/response_acc/response_body/response_body.dart';
-export 'package:api_http/src/utils/response_pipe.dart'; 
+export 'package:api_http/src/utils/response_pipe.dart';
