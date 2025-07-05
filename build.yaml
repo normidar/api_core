@@ -4,4 +4,4 @@ targets:
       auto_exporter:
         options:
           default_export_all: true
-          project_name: api_core
+          project_name: api_http

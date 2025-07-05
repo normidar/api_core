@@ -10,6 +10,6 @@ dev_dependencies:
   test: ^1.24.0
 environment:
   sdk: ^3.4.4
-name: api_core
+name: api_http
 publish_to: none
 version: 0.0.1

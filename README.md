@@ -1,10 +1,10 @@
-# api_core
+# api_http
 
 A comprehensive HTTP API client library for Dart, designed to provide a clean and type-safe interface for making HTTP requests with support for various content types and mocking capabilities.
 
 ## Description
 
-`api_core` is a part of the Coin Galaxy project that provides a robust HTTP client implementation with the following key features:
+`api_http` is a part of the Coin Galaxy project that provides a robust HTTP client implementation with the following key features:
 
 - **Type-safe HTTP methods**: GET, POST, PUT, DELETE, HEAD
 - **Multiple content type support**: JSON, HTML, binary files, text, multipart form data
@@ -60,7 +60,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  api_core: ^0.0.2
+  api_http: ^0.0.2
 ```
 
 ## Usage
@@ -68,7 +68,7 @@ dependencies:
 ### Basic GET Request
 
 ```dart
-import 'package:api_core/api_core.dart';
+import 'package:api_http/api_http.dart';
 
 final request = GetRequestAcc(
   url: 'https://api.example.com/users',
