@@ -7,5 +7,6 @@
   "editor.formatOnSaveMode": "file",
   "editor.formatOnSave": true,
   "dart.flutterSdkPath": ".fvm/versions/3.32.5",
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay"
 }
